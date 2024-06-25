@@ -27,7 +27,7 @@
 
 ### Starting Examples
 
-    package com.in28minutes.junit.helper;
+    package com.annu.junit.helper;
 
     public class StringHelper {
 
